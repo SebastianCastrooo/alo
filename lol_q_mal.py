@@ -208,7 +208,7 @@ if st.button("Analizar Mensaje"):
 
         riesgo += 1
 
-        razones.append(  Uso excesivo de signos de exclamación")
+        razones.append( " Uso excesivo de signos de exclamación")
 
 
 
