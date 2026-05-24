@@ -48,7 +48,7 @@ st.write(
 
 mensaje = st.text_area(
 
-    "📩 Mensaje a analizar",
+    "Mensaje a analizar",
 
     height=220,
 
